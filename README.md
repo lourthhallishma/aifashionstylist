@@ -6,12 +6,12 @@ Upload an image of a clothing item and get instant fashion advice.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧠 **Deep Learning Classification** — Uses a CNN trained on Fashion MNIST to classify images into 10 fashion categories.
-- 👚 **Style Recommendations** — Get smart outfit suggestions for each clothing item.
-- 🎨 **Simple, Responsive UI** — Built with Gradio for an accessible and modern web interface.
-- ☁️ **Deployed on Hugging Face Spaces** — Easily accessible, no installation needed.
+- **Deep Learning Classification** — Uses a CNN trained on Fashion MNIST to classify images into 10 fashion categories.
+- **Style Recommendations** — Get smart outfit suggestions for each clothing item.
+- **Simple, Responsive UI** — Built with Gradio for an accessible and modern web interface.
+- ☁**Deployed on Hugging Face Spaces** — Easily accessible, no installation needed.
 
 ---
 
@@ -25,7 +25,7 @@ Upload an image of a clothing item and get instant fashion advice.
 | Dataset     | Fashion MNIST                            |
 | Deployment  | Hugging Face Spaces                      |
 
-## 🧠 Model Details
+## Model Details
 
 The core model is a **Convolutional Neural Network (CNN)** trained on the **Fashion MNIST** dataset:
 
