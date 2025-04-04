@@ -11,11 +11,11 @@ Upload an image of a clothing item and get instant fashion advice.
 - **Deep Learning Classification** — Uses a CNN trained on Fashion MNIST to classify images into 10 fashion categories.
 - **Style Recommendations** — Get smart outfit suggestions for each clothing item.
 - **Simple, Responsive UI** — Built with Gradio for an accessible and modern web interface.
-- ☁**Deployed on Hugging Face Spaces** — Easily accessible, no installation needed.
+- **Deployed on Hugging Face Spaces** — Easily accessible, no installation needed.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Area        | Tools/Frameworks                        |
 |-------------|------------------------------------------|
